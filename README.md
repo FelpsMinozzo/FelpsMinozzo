@@ -8,7 +8,7 @@
   
  ---- 
   
- ## 🚀 Minhas Skills 
+ ## 🚀 O Que Tenho Estudado?
   
  <code><a href="https://nextjs.org/docs" target="_blank"><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjaRslF-6qQiLVAEhrH61TH9bhZLe0taOCQ&usqp=CAU" alt="NextJS"/></a></code>
 <code><a href="https://reactjs.org" target="_blank"><img height="32" src="https://b768731.smushcdn.com/768731/wp-content/uploads/2019/09/React.png?lossy=0&strip=1&webp=1" alt="ReactJS"/></a></code>
