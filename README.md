@@ -12,7 +12,7 @@
   
  <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code> 
  <code><a href="https://nextjs.org/docs" target="_blank"><img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkjaRslF-6qQiLVAEhrH61TH9bhZLe0taOCQ&usqp=CAU" alt="NextJS"/></a></code>
- <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code> 
+ <code><img height="32" src="https://b768731.smushcdn.com/768731/wp-content/uploads/2019/09/React.png?lossy=0&strip=1&webp=1" alt="ReactJS" href="https://reactjs.org"/></code>
  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code> 
  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code> 
  <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code> 
