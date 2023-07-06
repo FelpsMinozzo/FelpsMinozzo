@@ -14,8 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<style>
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
 
-<h2>Nome: Eduardo Felipe</h2>
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
+#paragraph1 {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  animation: typing 2s steps(30, end), blink-caret 0.5s step-end infinite;
+}
+
+#paragraph2 {
+  opacity: 0;
+  animation: fadeIn 1s 2s forwards;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+</style>
+<p>
+  <span id="paragraph1">Opa, tudo bom?</span>
+  <span id="paragraph2">Me chamo Eduardo Felipe!</span>
+</p>
+
+<script>
+  const paragraph2 = document.getElementById('paragraph2');
+  paragraph2.style.animationDelay = (2 * 1000) + "ms";
+</script>
+
 
 <h2>Linguagens que estou estudando:</h2>
 <ul>
