@@ -12,6 +12,7 @@
 👨‍💻 Estou muito entusiasmado com minha jornada como desenvolvedor de sistemas e gostaria de compartilhar conhecimentos, trocar ideias e colaborar em projetos emocionantes. Se você tiver alguma pergunta sobre desenvolvimento front-end, o framework NextJS ou quiser saber mais sobre o My Invest, meu projeto de TCC, sinta-se à vontade para me perguntar. Estou aqui para ajudar e aprender junto com você.
 
 🎯 Vamos conectar e impulsionar juntos o mundo da tecnologia e do desenvolvimento!
+
  ---- 
   
  ## 🚀 O Que Tenho Estudado?
