@@ -7,7 +7,7 @@
   
 ✉️ Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail para felps.minozzo@gmail.com. Estou sempre disponível para discutir oportunidades de contratação ou colaboração em projetos interessantes.
 
-🌐 Além disso, você pode me encontrar nas redes sociais. No Instagram, meu usuário é @Felps_Minozzo. Será um prazer conectarmos por lá! Também estou no LinkedIn, e você pode acessar meu perfil do LinkedIn clicando <code><a href="https://www.linkedin.com/in/eduardo-felipe-gomes-renosto-652500251/">aqui</a></code>.
+🌐 Além disso, você pode me encontrar nas redes sociais. No Instagram, meu usuário é <code><a href="https://www.instagram.com/felps_minozzo/">@Felps_Minozzo</a></code>. Será um prazer conectarmos por lá! Também estou no LinkedIn, e você pode acessar meu perfil do LinkedIn clicando <code><a href="https://www.linkedin.com/in/eduardo-felipe-gomes-renosto-652500251/">aqui</a></code>.
 
 👨‍💻 Estou muito entusiasmado com minha jornada como desenvolvedor de sistemas e gostaria de compartilhar conhecimentos, trocar ideias e colaborar em projetos emocionantes. Se você tiver alguma pergunta sobre desenvolvimento front-end, o framework NextJS ou quiser saber mais sobre o My Invest, meu projeto de TCC, sinta-se à vontade para me perguntar. Estou aqui para ajudar e aprender junto com você.
 
