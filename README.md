@@ -5,6 +5,7 @@ Sou um Desenvolvedor Full Stack com experiência em projetos freelance, atualmen
 Atuo com as principais tecnologias do ecossistema web, com destaque para React, Next.js e Flutter. Tenho familiaridade com linguagens como Dart, Java, C#, Python e conhecimento sólido em desenvolvimento de sistemas, adquiridos ao longo de minha formação técnica na ETEC Antônio Furlan e complementados por experiência prática em projetos profissionais e acadêmicos.
 
 Meu perfil é pautado pela busca constante de evolução, capacidade de aprendizado rápido e compromisso com a entrega de soluções eficientes e de qualidade.
+
 🛠️ Principais Competências
 
     Desenvolvimento Front-End: Angular, React, Next.js, TailwindCSS
@@ -50,4 +51,5 @@ LinkedIn: <a href="https://www.linkedin.com/in/felipe-renosto/">Eduardo Renosto<
 <a href="https://cloud.google.com" target="_blank"><img height="32" src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="Google Cloud"/></a>
   
  ## ⭐ Informações sobre minha conta GitHub 
+ 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felpsminozzo&show_icons=true)
