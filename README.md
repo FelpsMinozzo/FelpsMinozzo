@@ -33,6 +33,7 @@ Plataforma web para monitoramento de ativos financeiros, desenvolvida como proje
 🎯 Objetivos Profissionais
 
 Atualmente, busco consolidar minha carreira como Desenvolvedor Full Stack, com foco em tecnologias modernas e escaláveis. Tenho interesse em atuar em projetos desafiadores que promovam inovação, aprendizado contínuo e impacto positivo no ambiente de negócios.
+
 📫 Contato
 
 E-mail: felps.minozzo@gmail.com
