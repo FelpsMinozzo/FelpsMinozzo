@@ -36,7 +36,8 @@ Atualmente, busco consolidar minha carreira como Desenvolvedor Full Stack, com f
 📫 Contato
 
 E-mail: felps.minozzo@gmail.com
-LinkedIn: <a href="https://wwww.linkedin.com/in/felipe-renosto/">Eduardo Renosto</a>
+
+LinkedIn: <a href="https://www.linkedin.com/in/felipe-renosto/">Eduardo Renosto</a>
 
 🚀 Tecnologias em Foco
 
