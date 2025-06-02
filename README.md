@@ -1,4 +1,4 @@
-👋 Olá, meu nome é Eduardo Felipe Gomes Renosto Mariotti
+👋 Olá, meu nome é Eduardo Renosto
 
 Sou um Desenvolvedor Full Stack com experiência em projetos freelance, atualmente cursando o segundo ano de Ciência da Computação. Possuo certificações em Cloud Engineering pela Google Cloud e venho expandindo meus conhecimentos em computação em nuvem com foco também na AWS.
 
@@ -7,13 +7,13 @@ Atuo com as principais tecnologias do ecossistema web, com destaque para React, 
 Meu perfil é pautado pela busca constante de evolução, capacidade de aprendizado rápido e compromisso com a entrega de soluções eficientes e de qualidade.
 🛠️ Principais Competências
 
-    Desenvolvimento Front-End: React, Next.js, TailwindCSS
+    Desenvolvimento Front-End: Angular, React, Next.js, TailwindCSS
 
     Desenvolvimento Mobile: Flutter, Dart
 
-    Back-End: Node.js, Java (básico), C# (básico)
+    Back-End: Node.js, Java (Intermediário), C# (básico)
 
-    Cloud: Google Cloud (Associate Cloud Engineer), estudando AWS
+    Cloud: Google Cloud, estudando AWS
 
     Versionamento: Git, GitHub, GitLab
 
@@ -36,7 +36,8 @@ Atualmente, busco consolidar minha carreira como Desenvolvedor Full Stack, com f
 📫 Contato
 
 E-mail: felps.minozzo@gmail.com
-LinkedIn: Eduardo Felipe Gomes Renosto Mariotti
+LinkedIn: <a href="https://wwww.linkedin.com/in/felipe-renosto/">Eduardo Renosto</a>
+
 🚀 Tecnologias em Foco
 
 <a href="https://angular.io" target="_blank"><img height="32" src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular"/></a>
